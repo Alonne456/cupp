@@ -1,0 +1,17 @@
+♻️ WiFi- JAMMING....COMMAND♻️
+
+pkg upgrade-y
+pkg install git
+pkg install python
+git clone https://github.com/MLikbal/ML-WiFi-JAMING
+cd ML-WiFi-JAMING
+ls
+chmod +x *
+ls
+python2 ML-JAMING.py
+
+
+
+🔸IP Target:👉 
+
+🔹port:👉 
